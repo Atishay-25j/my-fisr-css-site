@@ -1,0 +1,118 @@
+.top-conatiner{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+p{
+  line-height: 2;
+}
+body{
+  margin : 0;
+  color: #inherit40514E;
+  /* font-size: 200%; */
+  text-align: center;
+font-family: "Merriweather", Times, serif;}
+a{
+  color: #11999E;
+  font-family: "Montserrat",arrial;
+  margin : 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  color:  #66BFBF;
+  font-family: "Sacramento", sans-serif;
+  line-height: 2;
+}
+h2{
+  font-family: "Montserrat",arrial;
+  font-size: 2.5rem;
+  color:  #66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: "Montserrat",arrial;
+  color:#11999E;
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+}
+.top-cloud{
+  position: absolute;
+  right :300px;
+  top:50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.comp-img{
+  width:25%;
+  float:left; /*   To put img on the left and text after the img   */
+  margin-right: 30px;
+}
+.chilli-img{
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+/* .skill-comp{
+  clear: left;
+}
+.skill-chilli{
+  clear: right;
+} */
+.btn {
+  /* -webkit-border-radius: 4;
+  -moz-border-radius: 4; */
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #070a0a;
+  font-size: 20px;
+  background: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.bottom-container{
+  padding-top: 50px;
+  padding-bottom: 40px;
+  background-color: #66BFBF;
+  margin: 0;
+}
+.end-A{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+hr{
+  height: 0px;
+  border-style: none;
+  border-top-style: dotted;
+  color: grey;
+  border-width: 10px;
+  width: 10%;
+}
+.prof-pic{
+  width:250px;
+}
